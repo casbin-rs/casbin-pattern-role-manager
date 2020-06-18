@@ -1,0 +1,1 @@
+# casbin-pattern-role-manager
